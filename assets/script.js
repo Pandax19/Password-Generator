@@ -109,7 +109,7 @@ function generatePassword() {
     randomPasswordArray.push(randomizer);
   }
   var randomPassword = randomPasswordArray.join("");
-  console.log(randomPassword);
+//   console.log(randomPassword);
   return randomPassword;
 }
 
